@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **Mapa de Férias** é uma ferramenta desenvolvida para facilitar o planejamento e a gestão das férias dos membros de uma empresa. Através desta aplicação, os colaboradores podem marcar suas férias, visualizar as férias dos colegas e garantir uma distribuição equilibrada de períodos de descanso ao longo do ano.
+O **Mapa de Férias** é uma ferramenta desenvolvida para facilitar o planejamento e a gestão das férias dos funcionários da Pluricall. Através desta aplicação, os colaboradores podem marcar suas férias, visualizar as férias dos colegas e garantir uma distribuição equilibrada de períodos de descanso ao longo do ano.
 
 ## Funcionalidades
 
